@@ -1,0 +1,2 @@
+# IntelliJ
+Pipelines in scala 
