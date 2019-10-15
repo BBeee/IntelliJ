@@ -1,0 +1,17 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.2.0/lz4-1.2.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.1.6/snappy-java-1.1.1.6.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.6/slf4j-parent-1.7.6.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.1.6/snappy-java-1.1.1.6.jar
+[debug] downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.2.0/lz4-1.2.0.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.2.0/lz4-1.2.0-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.1.6/snappy-java-1.1.1.6-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.2.0/lz4-1.2.0-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.1.6/snappy-java-1.1.1.6-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6-javadoc.jar

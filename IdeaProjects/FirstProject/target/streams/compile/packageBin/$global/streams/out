@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/firstproject_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$$anonfun$helloworld$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/HelloWorld$$anonfun$helloworld$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Airbnb.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Airbnb.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Airbnb$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Airbnb$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tax$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Tax$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Airbnb$$anonfun$airbnb$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Airbnb$$anonfun$airbnb$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$$anonfun$helloworld$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/HelloWorld$$anonfun$helloworld$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tax2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Tax2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tax2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Tax2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Airbnb$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Airbnb$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tax.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Tax.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/FirstProject/target/scala-2.11/classes/HelloWorld.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
