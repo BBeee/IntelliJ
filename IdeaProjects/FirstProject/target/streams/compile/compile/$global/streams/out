@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/hadoop/IdeaProjects/FirstProject/project/target/.sbt-compilation-infos/firstproject-compile/.sbt-idea-lock ...[0m
-[0m[[0m[31merror[0m] [0m[0m/home/hadoop/IdeaProjects/FirstProject/src/main/scala/Main.scala:14:14: not found: value sqlContext[0m
-[0m[[0m[31merror[0m] [0m[0m    val df = sqlContext.sql("SELECT * FROM csv.`/home/hadoop/Downloads/AB_NYC_2019.csv`")[0m
-[0m[[0m[31merror[0m] [0m[0m             ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
-[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/hadoop/IdeaProjects/FirstProject/project/target/.sbt-compilation-infos/firstproject-compile/.sbt-idea-lock.[0m
